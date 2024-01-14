@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-Favio Callejas Flores 12345
+Favio Callejas Flores
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
