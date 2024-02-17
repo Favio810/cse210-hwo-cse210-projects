@@ -1,4 +1,4 @@
-1,[ ],Simple goal,favio,favio callejas,100,-,-
-2,[ ],Eternal goal,faviola,faviola callejas,200,-,-
-3,[ ],Checklist goal,cibela,cibela callejas,300,3,400
-4,[ ],Eternal goal,aydee,aydee flores,300,-,-
+1,[ ],Simple goal,Read,Read the scriptures every day for 7 days,100,-,-
+2,[ ],Eternal goal,Church activities,Go to the church activities at least 5 times,100,-,-
+3,[ ],Checklist goal,Temple,Go to the Temple,100,3,500
+4,[ ],Simple goal,Pray,Pray every morning for 1 month,200,-,-
